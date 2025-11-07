@@ -20,8 +20,6 @@ This project demonstrates how to implement **user registration, login, logout, a
 - **Hashing:** crypto
 - **Database:** SQLite
 
-## 📁 Project Structure
-
 ## 🧩 Authentication Flow
 
 1. **User Registration:**
