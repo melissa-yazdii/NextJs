@@ -44,7 +44,7 @@ This project demonstrates how to implement **user registration, login, logout, a
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/your-username/NextJs.git
+git clone https://github.com/melissa-yazdii/NextJs.git
 cd NextJs
 npm install
 ```
